@@ -18,4 +18,5 @@ the industry's standard dummy
 the industry's standard dummy 
 the industry's standard dummy 
 the industry's standard dummy 
-today is saterday
+today is Saturday
+hello evening
